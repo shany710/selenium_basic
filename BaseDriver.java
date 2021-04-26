@@ -1,6 +1,7 @@
 public class BaseDriver{
 
-  private WebDriver driver;
+  private WebDriver driverNavegador;
+  private WebDriverWait espera;
 
 
 }
